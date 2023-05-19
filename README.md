@@ -1,4 +1,4 @@
-# Automação web para commodities e moedas mundias 
+# Automação web para moedas mundias e commodities 
 
 Neste trabalho busco na internet, de forma automática, a cotação de diversas moedas mundiais (dólar, euro, libra, etc) e commodities (soja, milho, trigo, etc).
 
